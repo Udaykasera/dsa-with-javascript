@@ -1,5 +1,7 @@
 # dsa-with-javascript
+
 A structured and consistent DSA preparation and practice repository in JavaScript with daily problem solving, detailed notes, optimized solutions, and progress tracking for interview readiness.
+
 # 🚀 DSA Preparation in JavaScript
 
 ## 📌 About This Repository
@@ -9,10 +11,10 @@ I am solving problems daily from platforms like LeetCode and maintaining clean, 
 
 ## 🎯 Goals
 
-* Solve 300+ DSA problems
-* Build strong problem-solving skills
-* Prepare for Software Testing & SDET roles
-* Maintain daily consistency
+- Solve 300+ DSA problems
+- Build strong problem-solving skills
+- Prepare for Software Testing & SDET roles
+- Maintain daily consistency
 
 ## 📂 Folder Structure
 
@@ -45,19 +47,19 @@ I maintain consistency by solving problems daily.
 
 ## 🧠 Approach
 
-* Brute Force → Better → Optimal
-* Code + Explanation
-* Time & Space Complexity
+- Brute Force → Better → Optimal
+- Code + Explanation
+- Time & Space Complexity
 
 ## 🔥 Platforms Used
 
-* LeetCode
-* GeeksforGeeks
+- LeetCode
+- GeeksforGeeks
 
 ## 📈 Progress Tracking
 
-* Total Problems Solved: 1
-* Current Streak: 1 Day
+- Total Problems Solved: 1
+- Current Streak: 1 Day
 
 ---
 
@@ -65,10 +67,10 @@ I maintain consistency by solving problems daily.
 
 This repository showcases:
 
-* Problem-solving ability
-* Consistency
-* Clean coding practices
-* Real interview preparation
+- Problem-solving ability
+- Consistency
+- Clean coding practices
+- Real interview preparation
 
 ---
 
